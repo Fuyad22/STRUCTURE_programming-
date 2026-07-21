@@ -10,3 +10,7 @@ nul
 .vscode/
 output/
 nul
+*.exe
+.vscode
+/output
+nul
